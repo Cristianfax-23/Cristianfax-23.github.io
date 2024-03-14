@@ -1,8 +1,5 @@
 ### ¡Hola! Soy Cristian Toro, un apasionado científico de datos en constante búsqueda de conocimiento y soluciones innovadoras. En este repositorio, encontrarás información relevante sobre mi experiencia, habilidades y logros en el campo de la ciencia de datos.
 
-<div align="center">
-<h1 align="center">Hola, soy Cristian👋</h1>
-</div>
 ![Gato lindo](https://imgur.com/a/FRXMi5L)
 
 
