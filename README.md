@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Cristian 👋</h1>
 </div>
-<img src="[https://drive.google.com/file/d/1EARIiEm-4IKEwm_WvXquSs55QFKskjU1/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1YNDuiFc4v2rMI-K5jGKFZBl3pdzvS5OH)">
+<img src="[Deep-Leraning](gs://storage-images-77d3f.appspot.com/_801f6a1e-68ce-4487-a165-63fb2108f44a (1).jpeg)">
 
 
 ## Habilidades
