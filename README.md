@@ -1,5 +1,24 @@
 ### ¡Hola! Soy Cristian Toro, un apasionado científico de datos en constante búsqueda de conocimiento y soluciones innovadoras. En este repositorio, encontrarás información relevante sobre mi experiencia, habilidades y logros en el campo de la ciencia de datos.
 
+
+## Habilidades
+
+### Lenguajes de Programación
+- Python
+- R
+- SQL
+
+### Herramientas y Tecnologías
+- TensorFlow
+- PyTorch
+- Tableau
+- Power BI
+
+### Habilidades Técnicas
+- Análisis de datos
+- Machine Learning
+- Visualización de datos
+
 <!--
 **Cristianfax-23/Cristianfax-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
