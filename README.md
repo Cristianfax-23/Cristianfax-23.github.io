@@ -5,14 +5,7 @@
 
 ### Lenguajes de Programación
 - Python
-- R
 - SQL
-
-### Herramientas y Tecnologías
-- TensorFlow
-- PyTorch
-- Tableau
-- Power BI
 
 ### Habilidades Técnicas
 - Análisis de datos
