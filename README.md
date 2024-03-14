@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Cristian👋</h1>
 </div>
-<img src="https://imgur.com/a/xGpP8Z9" alt="Descripción de la imagen">
+<img src="https://imgur.com/28P68Rb" alt="Descripción de la imagen">
 
 ## Habilidades
 
