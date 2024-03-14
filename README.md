@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Cristian👋</h1>
 </div>
-<img src="https://imgur.com/28P68Rb" alt="Descripción de la imagen">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/8DIMoUK"  ><a href="//imgur.com/a/8DIMoUK">deep-learning</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Habilidades
 
