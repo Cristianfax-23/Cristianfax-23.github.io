@@ -1,18 +1,25 @@
-### ¡Hola! Soy Cristian Toro, un apasionado científico de datos en constante búsqueda de conocimiento y soluciones innovadoras. En este repositorio, encontrarás información relevante sobre mi experiencia, habilidades y logros en el campo de la ciencia de datos.
+<div align="center">
+<h1 align="center">Hola, soy Cristian👋</h1>
+</div>
+<img src="https://i.imgur.com/1KxuQH5.png">
 
-![Gato lindo](https://i.imgur.com/1KxuQH5.png)
 
+## Sobre mi
 
-## Habilidades
+- 🤓 Data Scientist
+- 🐳 Se usar Docker
+- 🐘 Se usar PostgreSQL
+- </> Se usar Python
+<br>
 
-### Lenguajes de Programación
-- Python
-- SQL
+### ⚙️ &nbsp;GitHub Analytics
 
-### Habilidades Técnicas
-- Análisis de datos
-- Machine Learning
-- Visualización de datos
+<p align="center">
+<a href="https://github.com/Cristianfax-23">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cristianfax-23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cristianfax-23&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **Cristianfax-23/Cristianfax-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
