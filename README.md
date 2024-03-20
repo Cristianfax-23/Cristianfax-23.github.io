@@ -6,10 +6,16 @@
 
 ## Sobre mi
 
-- 🤓 Data Scientist
-- 🐳 Se usar Docker
-- 🐘 Se usar PostgreSQL
-- </> Se usar Python
+Soy científico de datos 🤓 y apasionado en el fascinante mundo de la inteligencia artificial 🤖. Mi sed de conocimiento me motiva cada día a buscar nuevas oportunidades para aprender y crecer en este emocionante campo. Creo que el aprendizaje continuo es la clave para el éxito y estoy comprometido a aprovechar cada oportunidad para mejorar y avanzar. ✨
+
+## Habilidades y herramientas
+
+- 🐳 Docker
+- 🐘 PostgreSQL
+- </> Python
+- 🤖 IA
+- 🧠 Machine learning
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
