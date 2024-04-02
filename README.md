@@ -15,6 +15,8 @@ Soy científico de datos 🤓 y apasionado en el fascinante mundo de la intelige
 - </> Python
 - 🤖 IA
 - 🧠 Machine learning
+- 🔧 Git
+- 🤖 Pytorch
 
 <br>
 
