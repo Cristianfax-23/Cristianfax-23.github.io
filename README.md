@@ -20,14 +20,7 @@ Soy científico de datos 🤓 y apasionado en el fascinante mundo de la intelige
 
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Cristianfax-23">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cristianfax-23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cristianfax-23&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 <!--
 **Cristianfax-23/Cristianfax-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
